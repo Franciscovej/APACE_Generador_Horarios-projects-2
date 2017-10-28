@@ -1,1 +1,2 @@
-# APACE_Generador_Horarios-projects-2
+# APACE_Generador_Horarios
+Generador Horarios Escolares (Proyecto)
